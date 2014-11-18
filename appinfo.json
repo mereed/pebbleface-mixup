@@ -1,0 +1,91 @@
+{
+    "appKeys": {
+        "bluetoohvibe": 2,
+        "hourlyvibe": 3,
+        "invert": 1,
+        "swap": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "mreed",
+    "longName": "mixup",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/download-mixup5menu.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/168-09.png",
+                "name": "IMAGE_NUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/168-08.png",
+                "name": "IMAGE_NUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/168-07.png",
+                "name": "IMAGE_NUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/168-06.png",
+                "name": "IMAGE_NUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/168-05.png",
+                "name": "IMAGE_NUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/168-04.png",
+                "name": "IMAGE_NUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/168-03.png",
+                "name": "IMAGE_NUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/168-02.png",
+                "name": "IMAGE_NUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/168-01.png",
+                "name": "IMAGE_NUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/168-00.png",
+                "name": "IMAGE_NUM_0",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Helvetica-Bold.ttf",
+                "name": "FONT_HELVETICA_BOLD_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Helvetica.ttf",
+                "name": "FONT_HELVETICA_16",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "mixup",
+    "uuid": "3fbb40d2-7f33-4420-8ada-dd66d24026a7",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
